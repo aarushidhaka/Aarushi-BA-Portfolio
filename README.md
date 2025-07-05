@@ -21,7 +21,7 @@ The coursework reflects a balance of analytical rigour, business acumen, and rea
 - Entrepreneurship and Business Venturing
 - Business In Practice
 
-- ## 🛠️ Skills & Tools
+## 🛠️ Skills & Tools
 
 A blend of technical expertise, business acumen, and product intuition developed through academic training and real-world experience:
 
